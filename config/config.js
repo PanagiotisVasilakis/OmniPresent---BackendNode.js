@@ -1,4 +1,4 @@
 module.exports = {
-    jwtSecret: 'long-live-the-ionic-academy',
-    db: 'mongodb+srv://server:server@cluster0.clbzhwb.mongodb.net/?retryWrites=true&w=majority'
+    jwtSecret: 'my-access-token',
+    db: 'mongodb+srv://api2:api2@cluster1.4mlnyrr.mongodb.net/?retryWrites=true&w=majority'
 };
